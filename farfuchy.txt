@@ -3,6 +3,9 @@ good good  study ，day day  丿up。
 	不违初心，放得远行
 	har  hard 
 总纲
+v1.0
   新增功能：1
   			2
   			3.新增了视觉强化
+v2.0
+  			
